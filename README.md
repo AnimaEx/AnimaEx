@@ -66,10 +66,15 @@ Actualmente estoy orientando mi carrera hacia el desarrollo de software y las te
 - Mejorar mis habilidades en desarrollo frontend y backend.
 - Participar en proyectos tecnológicos y adquirir experiencia profesional en el área TI.
 
+
 ## 📫 Contacto
 
-📍 Santiago, Chile
+📍 **Ubicación:** Santiago, Chile
+
+📧 **Correo electrónico:** [vfuenzalez@gmail.com](mailto:vfuenzalez@gmail.com)
 
 💻 **GitHub:** [github.com/AnimaEx](https://github.com/AnimaEx)
 
-Estoy abierto a oportunidades para aprender, colaborar y desarrollarme profesionalmente en el área tecnológica.
+Estoy abierto a oportunidades laborales, colaboraciones y proyectos que me permitan seguir desarrollándome profesionalmente en el área tecnológica.
+
+
