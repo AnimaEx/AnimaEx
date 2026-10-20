@@ -1,4 +1,4 @@
-# ¡Hola! Soy Viktor Fuentes 👋
+# ¡Hola! Soy Victor Fuentes 👋
 
 ### 💻 Desarrollador web en formación | Python | Django | PostgreSQL
 
