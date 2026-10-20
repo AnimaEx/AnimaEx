@@ -75,6 +75,8 @@ Actualmente estoy orientando mi carrera hacia el desarrollo de software y las te
 
 💻 **GitHub:** [github.com/AnimaEx](https://github.com/AnimaEx)
 
+💼 **LinkedIn:** [Victor Fuentes Gonzalez](https://www.linkedin.com/in/victor-fuentes-gonzalez-5a8a58296)
+
 Estoy abierto a oportunidades laborales, colaboraciones y proyectos que me permitan seguir desarrollándome profesionalmente en el área tecnológica.
 
 
